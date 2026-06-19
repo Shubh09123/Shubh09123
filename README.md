@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.herokuapp.com/main?type=wave&color=6366F1&height=250&section=header&text=SHUBH%20SONI&fontSize=70&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
+<img src="https://kandi.openweave.io/render/wave?text=SHUBH%20SONI&fontSize=70&fontColor=ffffff&theme=dark&height=250" width="100%" alt="Header Banner" />
 
 <br />
 
@@ -19,7 +19,7 @@
 
 <br />
 
-[![Views](https://img.shields.io/github/visitors/Shubh09123/Shubh09123?color=A78BFA&label=PROFILE%20VIEWS&style=flat-square)](https://github.com/Shubh09123)
+[![Views](https://komarev.com/ghpvc/?username=Shubh09123&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Shubh09123)
 [![Followers](https://img.shields.io/github/followers/Shubh09123?color=818CF8&label=FOLLOWERS&style=flat-square)](https://github.com/Shubh09123)
 [![Stars](https://img.shields.io/github/stars/Shubh09123?color=6366F1&label=STARS%20GIVEN&style=flat-square)](https://github.com/Shubh09123)
 
